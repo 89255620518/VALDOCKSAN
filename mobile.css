@@ -1,0 +1,11 @@
+@media (min-width: 320px) and (max-width: 640px) {
+    .img_1 {
+        height: 188px;
+        width: 80px;
+    }
+
+    .content_info {
+        gap: 55px;
+    }
+
+}
